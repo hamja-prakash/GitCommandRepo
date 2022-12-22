@@ -10,6 +10,23 @@
                 FontSize="20"
                 HorizontalOptions="CenterAndExpand"
                 Text="This is Git Testing.."
+                TextColor="blue"
+                VerticalOptions="CenterAndExpand" />
+
+            <Label
+                FontAttributes="Bold"
+                FontSize="20"
+                HorizontalOptions="CenterAndExpand"
+                Text="This is Git Testing.."
+                TextColor="blue"
+                VerticalOptions="CenterAndExpand" />
+
+            <Label
+                FontAttributes="Bold"
+                FontSize="20"
+                HorizontalOptions="CenterAndExpand"
+                Text="This is Git Testing.."
+                TextColor="blue"
                 VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
